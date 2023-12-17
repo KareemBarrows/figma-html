@@ -1,5 +1,5 @@
-plugin/**/*.js
+plugin/ */*.js
 node_modules
 dist
 
-**/.DS_Store
+**/.DS_Store*
